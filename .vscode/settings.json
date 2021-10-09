@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.v": "systemverilog",
+        "*.flex": "lex",
+        "iostream": "cpp",
+        "string": "cpp",
+        "ostream": "cpp",
+        "*.tcc": "cpp",
+        "iosfwd": "cpp",
+        "algorithm": "cpp"
+    }
+}

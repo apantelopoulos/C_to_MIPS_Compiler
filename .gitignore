@@ -1,0 +1,9 @@
+.DS_Store
+/bin/*
+/src/parser/*.o
+/src/parser/*.output
+/src/parser/c_parser.tab.cpp
+/src/parser/c_lexer.yy.cpp
+/src/parser/c_parser.tab.hpp
+.vagrant
+/basic_tests/*
